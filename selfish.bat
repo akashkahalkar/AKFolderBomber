@@ -6,7 +6,7 @@ echo **********  selfish folder bomber *************
 echo ###############################################
 echo.
 rem Author: Akash Kahalkar (2014)
-echo Enter Drive letter to create folders in, Eg j: (remember colon ':')
+echo Enter Drive letter to create folders in, Eg j: (remember colon ':') followed optional folder name 
 
 if "%~1"=="" goto :empty
 
